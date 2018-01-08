@@ -7,3 +7,11 @@ function multiplyNumbers(array) {
     })
     return total;
 }
+
+let dudes = [{
+    name: "Hedwig",
+    age: 3
+}, {
+    name: "Crookshanks",
+    age: 5
+}];

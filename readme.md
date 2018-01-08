@@ -7,3 +7,6 @@ You should create an array of numbers in a Javascript file, if there isn't one. 
 
 ### Task 2 - Carolyn
 You should create a new CSS file. Link to it from one of your HTML files.
+
+### Task 3 - Amber
+Slack your partner. You should both create an array of objects. Each object should have a name and age.
