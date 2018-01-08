@@ -15,3 +15,13 @@ let dudes = [{
     name: "Crookshanks",
     age: 5
 }];
+
+let arrayOfObjects = [
+  {
+    name: "Carolyn",
+    age: 29
+  }, {
+    name: "Amber",
+    age: 28
+  }
+];
