@@ -7,3 +7,13 @@ function multiplyNumbers(array) {
     })
     return total;
 }
+
+let arrayOfObjects = [
+  {
+    name: "Carolyn",
+    age: 29
+  }, {
+    name: "Amber",
+    age: 28
+  }
+];
