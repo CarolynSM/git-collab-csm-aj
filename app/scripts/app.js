@@ -8,6 +8,18 @@ function multiplyNumbers(array) {
     return total;
 }
 
+multiplyNumber(numberArray);
+
+function addNumbers(array) {
+    let total = 0;
+    numberArray.forEach(number => {
+        total = total + number;
+    })
+    return total;
+}
+
+addNumbers(numberArray);
+
 let dudes = [{
     name: "Hedwig",
     age: 3
