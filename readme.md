@@ -13,3 +13,6 @@ Slack your partner. You should both create an array of objects. Each object shou
 
 ### Task 4 - Carolyn
 You should create a new HTML file. Link to it from index.html
+
+### Task 5 - Amber
+You should create a new directory. Move at least one file into that directory.
