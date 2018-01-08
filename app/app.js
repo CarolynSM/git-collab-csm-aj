@@ -33,5 +33,8 @@ let otherArray = [
   }, {
     name: "Scissors",
     age: 3
+  }, {
+    name: "Sprocket",
+    age: 5
   }
 ];
