@@ -19,3 +19,6 @@ You should create a new directory. Move at least one file into that directory.
 
 ### Task 6 - Carolyn
 You should create an array of objects. Each object should have a name and age.
+
+### Task 7 - Amber
+You should create a new HTML file. Link to it from index.html
