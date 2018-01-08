@@ -25,3 +25,16 @@ let arrayOfObjects = [
     age: 28
   }
 ];
+
+let otherArray = [
+  {
+    name: "Ginger",
+    age: 10
+  }, {
+    name: "Scissors",
+    age: 3
+  }, {
+    name: "Sprocket",
+    age: 5
+  }
+];
